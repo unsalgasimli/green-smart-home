@@ -156,7 +156,8 @@ function PieChart({ data, size = 120, stroke = 14 }: {
 }
 
 // Stats Component
-function FeatureStats({ stats }: { stats: Record<string, number | string> }) {
+function FeatureStats({ stats }: { stats: Record<string, number | string | undefined> }) {
+
     if (!stats) return null;
     return (
         <div className="flex flex-wrap gap-3 mt-3 justify-center">

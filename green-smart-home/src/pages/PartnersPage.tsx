@@ -258,7 +258,7 @@ function CallToAction() {
             </div>
             <button
                 className="mt-6 px-8 py-3 bg-[#2E865E] text-white rounded-xl font-bold shadow hover:bg-[#21704c] transition"
-                onClick={() => window.location = "mailto:info@yasilhesab.az"}
+                onClick={() => window.location.href = "mailto:info@yasilhesab.az"}
             >
                 Əməkdaşlıq üçün yazın
             </button>
