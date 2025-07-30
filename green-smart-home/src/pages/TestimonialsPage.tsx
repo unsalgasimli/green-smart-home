@@ -75,7 +75,7 @@ export default function TestimonialsPage() {
             {/* --- Dynamic Blobs & BG --- */}
             <div className="pointer-events-none select-none absolute -top-36 -left-36 w-[500px] h-[320px] rounded-full opacity-10 blur-3xl bg-gradient-to-br from-[#B8CBFF] via-[#FAF9F6] to-[#2E865E] z-0" />
             <div className="pointer-events-none select-none absolute bottom-0 right-0 w-[420px] h-[260px] rounded-full opacity-10 blur-2xl bg-gradient-to-tr from-[#CFFFE3] to-[#71D99E] z-0" />
-            <div className="pointer-events-none select-none absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10 z-0" />
+
 
             <div className="relative z-10 flex flex-col items-center w-full">
                 <h1 className="text-3xl md:text-5xl font-black text-[#2E865E] text-center mb-3 drop-shadow-xl mt-8">

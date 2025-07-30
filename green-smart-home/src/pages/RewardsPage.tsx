@@ -115,7 +115,6 @@ export default function RewardsPage() {
             <div className="pointer-events-none select-none z-0">
                 <div className="absolute -top-44 -left-44 w-[800px] h-[500px] rounded-full opacity-25 blur-3xl bg-gradient-to-br from-[#70D9B6] via-[#B8CBFF] to-[#2E865E]"/>
                 <div className="absolute -bottom-44 right-0 w-[900px] h-[300px] rounded-full opacity-20 blur-2xl bg-gradient-to-tr from-[#B8CBFF] to-[#2E865E]"/>
-                <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10"/>
             </div>
 
             <div className="relative z-10 w-full max-w-[110rem] mx-auto flex flex-col items-center px-2">
