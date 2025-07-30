@@ -115,6 +115,7 @@ export default function HomePage() {
             <div className="pointer-events-none select-none">
                 <div className="absolute -top-32 -left-32 w-[540px] h-[340px] rounded-full opacity-30 blur-3xl bg-gradient-to-br from-[#C3FFE3] via-[#B8CBFF] to-[#2E865E] z-0" />
                 <div className="absolute bottom-0 right-0 w-[500px] h-[260px] rounded-full opacity-20 blur-2xl bg-gradient-to-tr from-[#B8CBFF] to-[#71D99E] z-0" />
+                <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10 z-0" />
                 <div className="absolute inset-0 bg-gradient-to-br from-[#F7FFF9] via-[#ECFDF5] to-[#CFFFE3] z-0" />
             </div>
 

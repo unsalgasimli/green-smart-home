@@ -287,6 +287,7 @@ export default function FeaturesPage() {
             <div className="pointer-events-none select-none">
                 <div className="absolute -top-40 -left-60 w-[650px] h-[420px] rounded-full opacity-25 blur-3xl bg-gradient-to-br from-[#B8CBFF] via-[#FAF9F6] to-[#2E865E] z-0" />
                 <div className="absolute bottom-0 right-0 w-[500px] h-[300px] rounded-full opacity-10 blur-2xl bg-gradient-to-tr from-[#CFFFE3] to-[#71D99E] z-0" />
+                <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10 z-0" />
             </div>
 
             <h1 className="text-4xl md:text-5xl font-black text-[#2E865E] text-center mb-16 z-10 relative">

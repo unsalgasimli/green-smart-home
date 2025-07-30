@@ -183,6 +183,7 @@ export default function BlogPage() {
             <div className="pointer-events-none select-none z-0">
                 <div className="absolute -top-40 -left-60 w-[800px] h-[420px] rounded-full opacity-25 blur-3xl bg-gradient-to-br from-[#B8CBFF] via-[#FAF9F6] to-[#2E865E]"/>
                 <div className="absolute bottom-0 right-0 w-[620px] h-[320px] rounded-full opacity-10 blur-2xl bg-gradient-to-tr from-[#CFFFE3] to-[#71D99E]"/>
+                <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-10"/>
             </div>
 
             <div className="relative z-10 max-w-7xl mx-auto px-2 py-12 flex flex-col gap-12">
